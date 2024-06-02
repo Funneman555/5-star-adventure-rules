@@ -15,6 +15,7 @@ Skills are the various specialties that your character possesses, and when promp
 | Cooking      | Heart     | Culinary ability, food-centric prowess              |
 | Constitution | Fortitude | Physical resistance, Stamina, Endurance             |
 | Willpower    | Fortitude | Mental resistance, Self Control                     |
+
 Combat Skills are Skills that only apply to [[The Game!/Combat\|Combat]], or nay instance in which your character means to confront or inflict harm upon something.
 
 | Name    | Description                      |
@@ -22,6 +23,7 @@ Combat Skills are Skills that only apply to [[The Game!/Combat\|Combat]], or nay
 | Harm    | Ability to inflict damage        |
 | Finesse | Ability to act efficiently       |
 | Safety  | Ability to minimize risk to self |
+
 When making a Skill Check/Save, it's usually against a DC, or Difficulty Class. The higher the DC, the more difficult the task is. Meeting or exceeding the DC will result in a success, while rolling lower than it will result in a failure. 
 
 | DC    | Difficulty   |
