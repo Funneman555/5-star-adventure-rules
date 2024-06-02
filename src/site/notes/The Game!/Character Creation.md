@@ -5,6 +5,8 @@
 
 This will be a comprehensive, step-by-step guide on creating Characters in 5 Star Adventure, specifically from Level 1.
 
+Here is the link to the sheet. To follow along, make your own copy so you can edit it: https://docs.google.com/spreadsheets/d/1S-VKs6A69JGfLDj9DFNtnJMgNvYPiFNTxfp6PaD8w3w/edit#gid=2143395882
+
 Your character sheet should look something like this:
 ![CharaCreation_1.png](/img/user/Assets/CharaCreation_1.png)
 As you read this section, you'll come to understand what each aspect of this sheet means. A character, Vincent Van Papillon, will be made alongside each step as an example.
